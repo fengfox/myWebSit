@@ -56,35 +56,40 @@ body,html {
 	position:absolute;
 }
 #min_1 #box1{
-	background:url(../images/banrenma.jpg) 0px 0px;
-}
-#min_1 #box2{
-	
-	background-color:#F06;
+	background:url(../images/banrenma.jpg);
 	text-align:center;
 	display:table-cell;
 	vertical-align:middle;
-	
 	top:50%;
 	position:absolute;
-	
-	
-	
 }
-/*
+#min_1 #box2{
+
+	text-align:center;
+	display:table-cell;
+	vertical-align:middle;
+	position:absolute;
+	background:#F06;
+
+}
+
 #min_2{
-	width:190px;
-	height:270px;
+	width:183px;
+	height:240px;
 	background:#2DC3C2;
 	top:0px;
-	left:150px;
+	left:400px;
 }
-*/
+
 #min_2 #box1{
-	background:url(http://m3.img.libdd.com/farm5/2012/1215/13/DFDD8585CD524FDF7A3D945DCCD60B6B676B048C20740_950_460.JPEG) -151px 0px;
+	background:url(../images/bingqiling.jpg);
 }
 #min_2 #box2{
-	background:url(http://m3.img.libdd.com/farm4/2012/1215/13/B3958D934DC4B89477EEADB2A1EBC737B683258C50F9F_950_460.JPEG) -151px 0px;
+	background:#0CF;
+	text-align:center;
+	display:table-cell;
+	vertical-align:middle;
+	position:absolute;
 }
 /*
 #min_3{
@@ -94,7 +99,7 @@ body,html {
 	top:0px;
 	left:340px;
 }
-*/
+
 #min_3 #box1{
 	background:url(http://m3.img.libdd.com/farm5/2012/1215/13/DFDD8585CD524FDF7A3D945DCCD60B6B676B048C20740_950_460.JPEG) -340px 0px;
 }
@@ -218,8 +223,8 @@ body,html {
 #min_12 #box2{
 	background:url(http://m3.img.libdd.com/farm4/2012/1215/13/B3958D934DC4B89477EEADB2A1EBC737B683258C50F9F_950_460.JPEG) -765px -185px;
 }
-
-#main #min_1 .divbox #box2 .box2content {
+*/
+.box2content {
 	position:relative;
 	top:30%;
 }
