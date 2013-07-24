@@ -83,42 +83,62 @@ body,html {
 
 #min_2 #box1{
 	background:url(../images/bingqiling.jpg);
+	
 }
 #min_2 #box2{
-	background:#0CF;
+	
 	text-align:center;
 	display:table-cell;
 	vertical-align:middle;
 	position:absolute;
+	top:50%;
+	background:#0CF;
 }
-/*
+
 #min_3{
-	width:245px;
-	height:135px;
+	width:367px;
+	height:240px;
 	background:#2DC3C2;
 	top:0px;
-	left:340px;
+	left:583px;
 }
 
 #min_3 #box1{
-	background:url(http://m3.img.libdd.com/farm5/2012/1215/13/DFDD8585CD524FDF7A3D945DCCD60B6B676B048C20740_950_460.JPEG) -340px 0px;
+	background:url(../images/jinji.jpg);
+	text-align:center;
+	display:table-cell;
+	vertical-align:middle;
+	top:50%;
+	position:absolute;
+	
 }
 #min_3 #box2{
-	background:url(http://m3.img.libdd.com/farm4/2012/1215/13/B3958D934DC4B89477EEADB2A1EBC737B683258C50F9F_950_460.JPEG) -340px 0px;
+	text-align:center;
+	display:table-cell;
+	vertical-align:middle;
+	position:absolute;
+	background:#F93;
 }
+
 #min_4{
-	width:245px;
-	height:135px;
+	width:185px;
+	height:240px;
 	background:#E34546;
-	top:135px;
-	left:340px;
+	top:240px;
+	left:0px;
 }
 #min_4 #box1{
-	background:url(http://m3.img.libdd.com/farm5/2012/1215/13/DFDD8585CD524FDF7A3D945DCCD60B6B676B048C20740_950_460.JPEG) -341px -135px;
+	background:url(../images/sibadakesi.jpg);
 }
 #min_4 #box2{
-	background:url(http://m3.img.libdd.com/farm4/2012/1215/13/B3958D934DC4B89477EEADB2A1EBC737B683258C50F9F_950_460.JPEG) -340px -135px;
+	text-align:center;
+	display:table-cell;
+	vertical-align:middle;
+	position:absolute;
+	top:50%;
+	background:#6F0;
 }
+/*
 #min_5{
 	width:180px;
 	height:135px;
